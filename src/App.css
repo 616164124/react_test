@@ -6,7 +6,8 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+/* 导入antd主题的css */
+@import '~antd/dist/antd.css'; 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

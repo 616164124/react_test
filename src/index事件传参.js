@@ -13,7 +13,6 @@ class PerentCom extends React.Component {
       <div>
         <form action="http://www.baidu.com">
           <div className="child">
-            {" "}
             <h1>hello</h1>
             <button onClick={this.parentEvent}>提交</button>
           </div>

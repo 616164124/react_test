@@ -1,7 +1,7 @@
 import React,{Component} from "react";
 import ReactDOM from "react-dom";
 import reportWebVitals from "./reportWebVitals";
-import { BrowserRouter as Router, Route, Link,Redirect } from "react-router-dom";
+import { BrowserRouter as Router, Route} from "react-router-dom";
 //重定向未完成
 function Logininfo(props) {
    console.log(props.loginState);
@@ -18,7 +18,6 @@ class App extends Component {
   }
   render() { 
     return ( 
-
       <Router>
         <Route path="/" exact component={() => { <h1>首页</h1> }}></Route>
         <Route path="/form" exact component={() => { <h1>表单验证</h1> }}></Route>

@@ -3,4 +3,5 @@
 }
 .content.active{
     display: block;
+    color: rgb(216, 196, 12);
 }
