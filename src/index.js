@@ -3,13 +3,13 @@ import ReactDOM from "react-dom";
 import { Provider } from "react-redux";
 // import Index from "./day09/index"
 // import store from "./day09/store"
-import Index from "./day10/index";
-import Day10 from "./Day10.js";
-import Day11 from "./Day11.js";
-import Day12 from "./Day12";
-import Day13 from "./Day13";
-import Day15 from "./Day15";
-import Day12_1 from "./day12/day12"
+// import Index from "./day10/index";
+// import Day10 from "./Day10.js";
+// import Day11 from "./Day11.js";
+// import Day12 from "./Day12";
+// import Day13 from "./Day13";
+// import Day15 from "./Day15";
+// import Day12_1 from "./day12/day12"
 class Parent extends Component {
   render() {
     const style1 = {
