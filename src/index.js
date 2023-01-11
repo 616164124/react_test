@@ -9,7 +9,7 @@ import ReactDOM from "react-dom";
 // import Day12 from "./Day12";
 // import Day13 from "./Day13";
 // import Day15 from "./Day15";
-// import Day12_1 from "./day12/day12"
+import Day12 from "./day12/day12"
 import HelloWorld from "./index04";
 class Parent extends Component {
   render() {
@@ -34,7 +34,7 @@ class Parent extends Component {
         {/*</Provider>*/}
         <div style={style1}></div>
         {/*<h1>day12</h1>*/}
-        {/*<Day12 />*/}
+        <Day12 />
         <div style={style1}></div>
         {/*<Day13 />*/}
         <div style={style1}></div>
@@ -43,7 +43,7 @@ class Parent extends Component {
         <div style={style1}></div>
         {/*<h1>day16</h1>*/}
         <div style={style1}></div>
-        {/*<h1>Day12_1</h1>*/}
+        <h1>Day12_1</h1>
         {/*<Day12_1/>*/}
       </div>
     );
