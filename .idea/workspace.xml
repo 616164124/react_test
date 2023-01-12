@@ -21,25 +21,45 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../1code/2dzswj" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+=======
+    <property name="last_opened_file_path" value="D:/1code/2dzswj" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RunManager">
+<<<<<<< HEAD
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+=======
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+<<<<<<< HEAD
       <option name="TEST_OBJECT" value="class" />
+=======
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,7 +71,10 @@
         <script value="start" />
       </scripts>
       <node-interpreter value="project" />
+<<<<<<< HEAD
       <package-manager value="npm" />
+=======
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
       <envs />
       <method v="2" />
     </configuration>
@@ -67,6 +90,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="d65e06e7-7986-4dda-8736-6f9743767bc6" name="Default Changelist" comment="" />
       <created>1673240233338</created>
       <option name="number" value="Default" />
@@ -75,6 +99,24 @@
       <workItem from="1673240234988" duration="205000" />
       <workItem from="1673240454835" duration="125000" />
     </task>
+=======
+      <changelist id="55ea9f8e-d9fa-4e16-bf47-3201b453014b" name="Default Changelist" comment="" />
+      <created>1673208648700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673208648700</updated>
+      <workItem from="1673208652025" duration="4539000" />
+      <workItem from="1673357426431" duration="5631000" />
+    </task>
+    <task id="LOCAL-00001" summary="2023年1月9日">
+      <created>1673213214870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673213214870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +132,13 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023年1月9日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023年1月9日" />
+>>>>>>> c5b7c92a33d2e9330ce5d75c7ff6650688c40cb7
   </component>
 </project>
